@@ -233,7 +233,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/prmpsmart/portfolio"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Miracle Apata (@prmpsmart)</a> and ❤️`,
 
   enablePWA: true,
 };
