@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Programa totalmente actualizado y diseñado desde 0.',
           imageUrl:
-            'https://www.youtube.com/watch?v=n2mrOaPzWk4',
+            'https://dinaten.com/wp-content/uploads/2024/09/inicioSesion01.png',
           link: 'https://dinaten.com/pixeval-v7/',
         },
         // {
